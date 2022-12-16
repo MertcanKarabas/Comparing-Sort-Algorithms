@@ -1,0 +1,408 @@
+****************************************
+*                                      *
+*    ~~~~~~~~ Random Array ~~~~~~~~    *
+*                                      *
+*     -------- 0. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 1. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 2. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 1           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 3. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 1           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 1           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 4. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 1           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 1           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 5. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 9           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 2           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 1           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 6. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 20          *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 5           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 1           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 7. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*         Duration in ms: 459          *
+*                                      *
+*       Starting Insertion Sort:       *
+*         Duration in ms: 115          *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 4           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 5           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 1           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 8. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*         Duration in ms: 1807         *
+*                                      *
+*       Starting Insertion Sort:       *
+*         Duration in ms: 469          *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 8           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 9           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 9. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*        Duration in ms: 47936         *
+*                                      *
+*       Starting Insertion Sort:       *
+*        Duration in ms: 11717         *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 60          *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 51          *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 3           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 3           *
+*                                      *
+*    -------- 10. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*        Duration in ms: 184205        *
+*                                      *
+*       Starting Insertion Sort:       *
+*        Duration in ms: 49180         *
+*                                      *
+*         Starting Merge Sort:         *
+*         Duration in ms: 118          *
+*                                      *
+*         Starting Heap Sort:          *
+*         Duration in ms: 113          *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 1           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 2           *
+*                                      *
+*    ~~~~~~~~ MinMax Array ~~~~~~~~    *
+*                                      *
+*     -------- 0. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 1. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 2. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 3. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 4. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 0           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 5. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 5           *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 1           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 6. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*          Duration in ms: 19          *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 1           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 7. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*         Duration in ms: 462          *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 1           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 3           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 8. Sorting --------     *
+*                                      *
+*       Starting Selection Sort:       *
+*         Duration in ms: 1883         *
+*                                      *
+*       Starting Insertion Sort:       *
+*          Duration in ms: 0           *
+*                                      *
+*         Starting Merge Sort:         *
+*          Duration in ms: 3           *
+*                                      *
+*         Starting Heap Sort:          *
+*          Duration in ms: 5           *
+*                                      *
+*     Starting Lomuto Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*      Starting Hoare Quick Sort:      *
+*          Duration in ms: 0           *
+*                                      *
+*     -------- 9. Sorting --------     *
+*                                      *
